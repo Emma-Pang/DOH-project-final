@@ -8,3 +8,5 @@ Python Flask, HTML/CSS, Javascript, MongoDB, Json data, Leaflet, and Plotly
 
 Note for TA's & Ilya:
 We were able to figure out our Leaflet visual (!!!) See all visuals below:
+
+![map](mapimg.png)

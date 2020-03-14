@@ -53,21 +53,21 @@ L.control.layers(null, overlays).addTo(map);
 // Initialize an object containing icons for each layer group
 var icons = {
   A_grade: L.ExtraMarkers.icon({
-    icon: "ion-settings",
-    iconColor: "black",
-    markerColor: "yellow",
+    icon: "ion-happy",
+    iconColor: "blue",
+    markerColor: "blue",
     shape: "star"
   }),
   B_grade: L.ExtraMarkers.icon({
-    icon: "ion-android-bicycle",
-    iconColor: "red",
-    markerColor: "red",
+    icon: "ion-happy",
+    iconColor: "orange",
+    markerColor: "orange",
     shape: "circle"
   }),
   C_grade: L.ExtraMarkers.icon({
-    icon: "ion-minus-circled",
-    iconColor: "blue",
-    markerColor: "blue-dark",
+    icon: "ion-sad",
+    iconColor: "green",
+    markerColor: "green",
     shape: "penta"
   })
 };
